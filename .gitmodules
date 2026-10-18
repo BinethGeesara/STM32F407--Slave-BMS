@@ -1,0 +1,3 @@
+[submodule "STMF407_BMS_Plotter"]
+	path = STMF407_BMS_Plotter
+	url = https://github.com/BinethGeesara/STM32-F407-BMS-FYP.git
